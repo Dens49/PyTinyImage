@@ -1,0 +1,301 @@
+class: beaver
+for class beaver there are 186 images found that are in cifar100 and 1930 that aren't in cifar100
+#####
+class: dolphin
+for class dolphin there are 232 images found that are in cifar100 and 2272 that aren't in cifar100
+#####
+class: otter
+for class otter there are 254 images found that are in cifar100 and 1819 that aren't in cifar100
+#####
+class: seal
+for class seal there are 334 images found that are in cifar100 and 1825 that aren't in cifar100
+#####
+class: whale
+for class whale there are 167 images found that are in cifar100 and 2430 that aren't in cifar100
+#####
+class: aquarium fish
+for class aquarium fish there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: flatfish
+for class flatfish there are 65 images found that are in cifar100 and 1439 that aren't in cifar100
+#####
+class: ray
+for class ray there are 0 images found that are in cifar100 and 2564 that aren't in cifar100
+#####
+class: shark
+for class shark there are 337 images found that are in cifar100 and 1820 that aren't in cifar100
+#####
+class: trout
+for class trout there are 203 images found that are in cifar100 and 2523 that aren't in cifar100
+#####
+class: orchids
+for class orchids there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: poppies
+for class poppies there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: roses
+for class roses there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: sunflowers
+for class sunflowers there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: tulips
+for class tulips there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: bottles
+for class bottles there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: bowls
+for class bowls there are 0 images found that are in cifar100 and 2105 that aren't in cifar100
+#####
+class: cans
+for class cans there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: cups
+for class cups there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: plates
+for class plates there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: apples
+for class apples there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: mushrooms
+for class mushrooms there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: oranges
+for class oranges there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: pears
+for class pears there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: sweet peppers
+for class sweet peppers there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: clock
+for class clock there are 378 images found that are in cifar100 and 1997 that aren't in cifar100
+#####
+class: computer keyboard
+for class computer keyboard there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: lamp
+for class lamp there are 341 images found that are in cifar100 and 1901 that aren't in cifar100
+#####
+class: telephone
+for class telephone there are 131 images found that are in cifar100 and 1758 that aren't in cifar100
+#####
+class: television
+for class television there are 264 images found that are in cifar100 and 2709 that aren't in cifar100
+#####
+class: bed
+for class bed there are 340 images found that are in cifar100 and 2427 that aren't in cifar100
+#####
+class: chair
+for class chair there are 20 images found that are in cifar100 and 2532 that aren't in cifar100
+#####
+class: couch
+for class couch there are 267 images found that are in cifar100 and 1904 that aren't in cifar100
+#####
+class: table
+for class table there are 246 images found that are in cifar100 and 2891 that aren't in cifar100
+#####
+class: wardrobe
+for class wardrobe there are 360 images found that are in cifar100 and 1669 that aren't in cifar100
+#####
+class: bee
+for class bee there are 138 images found that are in cifar100 and 2055 that aren't in cifar100
+#####
+class: beetle
+for class beetle there are 256 images found that are in cifar100 and 1917 that aren't in cifar100
+#####
+class: butterfly
+for class butterfly there are 480 images found that are in cifar100 and 2556 that aren't in cifar100
+#####
+class: caterpillar
+for class caterpillar there are 447 images found that are in cifar100 and 1935 that aren't in cifar100
+#####
+class: cockroach
+for class cockroach there are 233 images found that are in cifar100 and 2085 that aren't in cifar100
+#####
+class: bear
+for class bear there are 282 images found that are in cifar100 and 1960 that aren't in cifar100
+#####
+class: leopard
+for class leopard there are 419 images found that are in cifar100 and 1720 that aren't in cifar100
+#####
+class: lion
+for class lion there are 166 images found that are in cifar100 and 2879 that aren't in cifar100
+#####
+class: tiger
+for class tiger there are 297 images found that are in cifar100 and 2306 that aren't in cifar100
+#####
+class: wolf
+for class wolf there are 96 images found that are in cifar100 and 2327 that aren't in cifar100
+#####
+class: bridge
+for class bridge there are 0 images found that are in cifar100 and 2274 that aren't in cifar100
+#####
+class: castle
+for class castle there are 338 images found that are in cifar100 and 2756 that aren't in cifar100
+#####
+class: house
+for class house there are 231 images found that are in cifar100 and 2089 that aren't in cifar100
+#####
+class: road
+for class road there are 6 images found that are in cifar100 and 2856 that aren't in cifar100
+#####
+class: skyscraper
+for class skyscraper there are 347 images found that are in cifar100 and 1951 that aren't in cifar100
+#####
+class: cloud
+for class cloud there are 257 images found that are in cifar100 and 2133 that aren't in cifar100
+#####
+class: forest
+for class forest there are 366 images found that are in cifar100 and 1878 that aren't in cifar100
+#####
+class: mountain
+for class mountain there are 48 images found that are in cifar100 and 2201 that aren't in cifar100
+#####
+class: plain
+for class plain there are 51 images found that are in cifar100 and 2147 that aren't in cifar100
+#####
+class: sea
+for class sea there are 186 images found that are in cifar100 and 1936 that aren't in cifar100
+#####
+class: camel
+for class camel there are 276 images found that are in cifar100 and 1845 that aren't in cifar100
+#####
+class: cattle
+for class cattle there are 237 images found that are in cifar100 and 1852 that aren't in cifar100
+#####
+class: chimpanzee
+for class chimpanzee there are 339 images found that are in cifar100 and 1367 that aren't in cifar100
+#####
+class: elephant
+for class elephant there are 384 images found that are in cifar100 and 2410 that aren't in cifar100
+#####
+class: kangaroo
+for class kangaroo there are 346 images found that are in cifar100 and 2217 that aren't in cifar100
+#####
+class: fox
+for class fox there are 144 images found that are in cifar100 and 2540 that aren't in cifar100
+#####
+class: porcupine
+for class porcupine there are 222 images found that are in cifar100 and 1678 that aren't in cifar100
+#####
+class: possum
+for class possum there are 303 images found that are in cifar100 and 1705 that aren't in cifar100
+#####
+class: raccoon
+for class raccoon there are 477 images found that are in cifar100 and 2110 that aren't in cifar100
+#####
+class: skunk
+for class skunk there are 198 images found that are in cifar100 and 2252 that aren't in cifar100
+#####
+class: crab
+for class crab there are 273 images found that are in cifar100 and 2462 that aren't in cifar100
+#####
+class: lobster
+for class lobster there are 373 images found that are in cifar100 and 1763 that aren't in cifar100
+#####
+class: snail
+for class snail there are 264 images found that are in cifar100 and 2105 that aren't in cifar100
+#####
+class: spider
+for class spider there are 316 images found that are in cifar100 and 2708 that aren't in cifar100
+#####
+class: worm
+for class worm there are 85 images found that are in cifar100 and 2860 that aren't in cifar100
+#####
+class: baby
+for class baby there are 346 images found that are in cifar100 and 2425 that aren't in cifar100
+#####
+class: boy
+for class boy there are 284 images found that are in cifar100 and 1950 that aren't in cifar100
+#####
+class: girl
+for class girl there are 102 images found that are in cifar100 and 2102 that aren't in cifar100
+#####
+class: man
+for class man there are 184 images found that are in cifar100 and 2064 that aren't in cifar100
+#####
+class: woman
+for class woman there are 43 images found that are in cifar100 and 2403 that aren't in cifar100
+#####
+class: crocodile
+for class crocodile there are 164 images found that are in cifar100 and 2548 that aren't in cifar100
+#####
+class: dinosaur
+for class dinosaur there are 86 images found that are in cifar100 and 1959 that aren't in cifar100
+#####
+class: lizard
+for class lizard there are 178 images found that are in cifar100 and 1952 that aren't in cifar100
+#####
+class: snake
+for class snake there are 115 images found that are in cifar100 and 2874 that aren't in cifar100
+#####
+class: turtle
+for class turtle there are 214 images found that are in cifar100 and 2224 that aren't in cifar100
+#####
+class: hamster
+for class hamster there are 217 images found that are in cifar100 and 2077 that aren't in cifar100
+#####
+class: mouse
+for class mouse there are 41 images found that are in cifar100 and 2087 that aren't in cifar100
+#####
+class: rabbit
+for class rabbit there are 333 images found that are in cifar100 and 2075 that aren't in cifar100
+#####
+class: shrew
+for class shrew there are 187 images found that are in cifar100 and 1639 that aren't in cifar100
+#####
+class: squirrel
+for class squirrel there are 430 images found that are in cifar100 and 1944 that aren't in cifar100
+#####
+class: maple
+for class maple there are 105 images found that are in cifar100 and 2044 that aren't in cifar100
+#####
+class: oak
+for class oak there are 3 images found that are in cifar100 and 3027 that aren't in cifar100
+#####
+class: palm
+for class palm there are 70 images found that are in cifar100 and 2182 that aren't in cifar100
+#####
+class: pine
+for class pine there are 153 images found that are in cifar100 and 2052 that aren't in cifar100
+#####
+class: willow
+for class willow there are 29 images found that are in cifar100 and 2611 that aren't in cifar100
+#####
+class: bicycle
+for class bicycle there are 145 images found that are in cifar100 and 2454 that aren't in cifar100
+#####
+class: bus
+for class bus there are 232 images found that are in cifar100 and 2836 that aren't in cifar100
+#####
+class: motorcycle
+for class motorcycle there are 316 images found that are in cifar100 and 1852 that aren't in cifar100
+#####
+class: pickup truck
+for class pickup truck there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: train
+for class train there are 294 images found that are in cifar100 and 2726 that aren't in cifar100
+#####
+class: lawn-mower
+for class lawn-mower there are 0 images found that are in cifar100 and 0 that aren't in cifar100
+#####
+class: rocket
+for class rocket there are 34 images found that are in cifar100 and 2146 that aren't in cifar100
+#####
+class: streetcar
+for class streetcar there are 469 images found that are in cifar100 and 1436 that aren't in cifar100
+#####
+class: tank
+for class tank there are 122 images found that are in cifar100 and 1775 that aren't in cifar100
+#####
+class: tractor
+for class tractor there are 203 images found that are in cifar100 and 1645 that aren't in cifar100
+#####
+For all cifar100 classes there are 18105 images found that are in cifar100 and 177459 that aren't in cifar100
