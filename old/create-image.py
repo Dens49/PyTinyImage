@@ -5,7 +5,7 @@ import numpy
 import scipy
 
 if (len(sys.argv) < 3):
-  print "usage: python create-image.py <path to bin files> <output image file type>"
+  print("usage: python create-image.py <path to bin files> <output image file type>")
   sys.exit(0)
 
 path = sys.argv[1]

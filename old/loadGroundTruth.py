@@ -2,7 +2,7 @@ import sys
 import os
 
 if (len(sys.argv) < 2):
-  print "usage: python loadGroundTruth.py <keyword>"
+  print("usage: python loadGroundTruth.py <keyword>")
   sys.exit(0)
 
 keyword = sys.argv[1]
@@ -16,6 +16,6 @@ for l in f.readlines():
     if pieces[1] == keyword and int(pieces[2]) == 1:
       output.append(int(pieces[5].strip()))
       
-print output   
+print(output)   
 
 

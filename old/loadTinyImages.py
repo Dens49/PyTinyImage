@@ -3,7 +3,7 @@ import os
 import gc
 
 if (len(sys.argv) < 2):
-  print "usage: python loadTinyImages.py <path_to_indices_file>"
+  print("usage: python loadTinyImages.py <path_to_indices_file>")
   sys.exit(0)
 
 indices_path = sys.argv[1]

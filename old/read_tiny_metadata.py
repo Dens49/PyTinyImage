@@ -3,7 +3,7 @@ import os
 import gc
 
 if (len(sys.argv) < 3):
-  print "usage: python read_tiny_metadata.py <keyword> <max_pics>"
+  print("usage: python read_tiny_metadata.py <keyword> <max_pics>")
   sys.exit(0)
 
 search_term = sys.argv[1]
