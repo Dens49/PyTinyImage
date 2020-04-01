@@ -3,9 +3,11 @@ import numpy
 import scipy
 from PIL import Image
 
+import settings
+
 # paths to various data files
-meta_file_path = "/mnt/data/tiny_images/tiny_metadata.bin"
-data_file_path = "/mnt/data/tiny_images/tiny_images.bin"
+data_file_path = settings.TINYIMAGES_DATA_PATH
+meta_file_path = settings.TINYIMAGES_META_PATH
 
 # open data files
 meta_file = 0
