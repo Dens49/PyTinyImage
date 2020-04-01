@@ -119,10 +119,13 @@ def sliceToBin(indx):
     return numpy.fromstring(data, dtype="uint8")
 
 
-def sliceToImage(data, path):
+def sliceToImage(data, path=None):
     t = data.reshape(32, 32, 3, order="F").copy()
     img = Image.fromarray(t)
-    img.save(path)
+    if path is None:
+        return img
+    else:
+        img.save(path)
 
 
 def closeTinyImage():
