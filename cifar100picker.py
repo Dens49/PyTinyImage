@@ -15,12 +15,29 @@ def get_labels():
     return labels
 
 
+g_loaded_cifar100_indices = []
+
+
 def get_indices():
-    indices = []
-    with open("./indices_cifar100.txt", "r") as f:
-        for index in f:
-            indices.append(int(index.rstrip()))
-    return indices
+    global g_loaded_cifar100_indices
+    if not g_loaded_cifar100_indices:
+        g_loaded_cifar100_indices = []
+        with open("./indices_cifar100.txt", "r") as f:
+            for index in f:
+                g_loaded_cifar100_indices.append(int(index.rstrip()))
+    return g_loaded_cifar100_indices
+
+
+def filter_indices_by_cifar100(indices, keep_in_cifar100=True):
+    cifar100_indices = get_indices()
+    in_cifar100 = lambda i: i in cifar100_indices
+    not_in_cifar100 = lambda i: i not in cifar100_indices
+    return list(
+        filter(
+            lambda i: in_cifar100(i) if keep_in_cifar100 else not_in_cifar100(i),
+            indices,
+        )
+    )
 
 
 # this uses the cifar100 classes as keywords to search in tinyimages
